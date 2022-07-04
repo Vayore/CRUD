@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "Make": "fshg",
+      "Model": "fgdf",
+      "Year": "fdg",
+      "Mileage": "fddg"
+    },
+    {
+      "id": 3,
+      "Make": "Toyota",
+      "Model": "Tazz",
+      "Year": "Tazz",
+      "Mileage": "fgdf"
+    },
+    {
+      "id": 4,
+      "Make": "fshgjdfhljdsn",
+      "Model": "fgdf",
+      "Year": "Tazz",
+      "Mileage": "Tazz"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
