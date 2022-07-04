@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "Make": "fshgjdfhljdsn",
+      "Model": "Tazz",
+      "Year": "fgdf",
+      "Mileage": "Tazz"
+    },
+    {
+      "id": 3,
+      "Make": "Toyota",
+      "Model": "Runx",
+      "Year": "2455",
+      "Mileage": "6647687"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
